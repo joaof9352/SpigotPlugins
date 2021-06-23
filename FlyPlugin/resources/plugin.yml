@@ -1,0 +1,9 @@
+name: FlyPlugin
+author: joaof9352
+version: 1.0
+main: me.joaof9352.BasicPlugin.Main.BasicPlugin
+
+commands:
+  fly:
+    description: Enable/Disable fly
+    aliases: [flight]

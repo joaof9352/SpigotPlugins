@@ -1,0 +1,7 @@
+prefix: "%1[%bFlyPlugin%1] "
+fly:
+  no-perm: "%cYou don't have permission to do that!"
+  flight-on: "%aNow you can fly!"
+  flight-off: "%cYou can't flight anymore!"
+  player-not-found: "%cPlayer not found!"
+  console-ans: "%cOnly players can use like that! Try /fly <playerName>!"
